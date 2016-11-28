@@ -1,4 +1,5 @@
 require 'execjs'
+require 'mithril_rails/msx/sprockets_extension'
 require 'mithril_rails/msx/template'
 require 'rails'
 
